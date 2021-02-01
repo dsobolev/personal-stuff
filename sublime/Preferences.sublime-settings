@@ -1,0 +1,9 @@
+{
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"rulers": [ 80, 120 ],
+}
