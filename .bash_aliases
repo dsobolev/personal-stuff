@@ -1,0 +1,5 @@
+alias gits='git status'
+alias gitm='git commit -m'
+alias gitam='git add . ; git commit -m'
+alias gitnb='git checkout -b'
+alias gitcb='git checkout'
