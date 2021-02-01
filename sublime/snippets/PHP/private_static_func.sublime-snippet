@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+private static function ${1:name} (${2:params}) {
+
+	${3:code}
+
+	return ${4:res};
+}
+]]></content>
+	<tabTrigger>privsf</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
+

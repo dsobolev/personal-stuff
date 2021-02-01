@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+private function ${1:name} (${2:params}) {
+
+	return ${3:res};
+}
+]]></content>
+	<tabTrigger>privfr</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
