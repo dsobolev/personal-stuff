@@ -3,7 +3,8 @@
 ### Actively used
 
 * SublimeLinter-php
-* PhpDoc
+* PhpDoc ??
+* PlainTask
 
 ### No Need to Use
 
