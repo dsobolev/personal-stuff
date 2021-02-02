@@ -5,6 +5,7 @@
 * SublimeLinter-php
 * PhpDoc ??
 * PlainTask
+* SublimeCodeIntel - for PHP only
 
 ### No Need to Use
 
