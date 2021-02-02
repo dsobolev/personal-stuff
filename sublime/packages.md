@@ -2,8 +2,8 @@
 
 ### Actively used
 
-* SublimeLinter-php
-* PhpDoc ??
+* SublimeLinter + SublimeLinter-php
+* PhpDoc ??? (not the best one, Alt+/, but simple)
 * PlainTask
 * SublimeCodeIntel - for PHP only
 
