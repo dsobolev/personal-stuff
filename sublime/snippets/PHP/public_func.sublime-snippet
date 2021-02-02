@@ -7,6 +7,6 @@ public function ${1:name} (${2:params}) {
 	return ${4:res};
 }
 ]]></content>
-	<tabTrigger>privf</tabTrigger>
+	<tabTrigger>pubf</tabTrigger>
 	<scope>source.php</scope>
 </snippet>
