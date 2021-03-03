@@ -3,12 +3,15 @@
 ### Actively used
 
 * SublimeLinter + SublimeLinter-php
-* PhpDoc ??? (not the best one, Alt+/, but simple)
+* DocBlockr
 * PlainTask
 * SublimeCodeIntel - for PHP only
+* Sass 2.0
 
 ### No Need to Use
 
 * Vintage Mode
+* PhpDoc (DocBlockr is better)
 
 ### Good to Check
+
